@@ -1,0 +1,2 @@
+# htw-data
+Autarkie-Rechner
